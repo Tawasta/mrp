@@ -1,3 +1,5 @@
+# MIGRATED TO https://gitlab.com/tawasta/odoo/mrp !
+
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Build Status](https://travis-ci.org/Tawasta/mrp.svg?branch=12.0)](https://travis-ci.org/Tawasta/mrp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/997101cf23d94bd4b2a9fecf0936b9ed)](https://www.codacy.com/app/Tawasta/mrp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tawasta/mrp&amp;utm_campaign=Badge_Grade)
